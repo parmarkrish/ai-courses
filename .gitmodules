@@ -1,0 +1,15 @@
+[submodule "cs231n"]
+	path = cs231n
+	url = https://github.com/parmarkrish/cs231n
+[submodule "cs224n"]
+	path = cs224n
+	url = https://github.com/parmarkrish/cs224n
+[submodule "dlsys"]
+	path = dlsys
+	url = https://github.com/parmarkrish/dlsys/
+[submodule "deepul"]
+	path = deepul
+	url = https://github.com/parmarkrish/deepul
+[submodule "EfficientML"]
+	path = EfficientML
+	url = https://github.com/parmarkrish/EfficientML
