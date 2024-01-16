@@ -1,5 +1,6 @@
 # AI Courses
-My solutions to various AI Courses from Stanford, CMU, Berkeley and MIT.
+My solutions to various AI Courses from Stanford, CMU, Berkeley and MIT. \
+Also see a list of my [model implementations](https://gist.github.com/parmarkrish/a1cfa955cc679297b1a1bff41b4bafd5).
 
 ## [Stanford CS231n: Convolutional Neural Networks for Visual Recognition.](https://github.com/parmarkrish/cs231n)
 Essentially an intro to deep learning course taught in the lens of computer vision. \
